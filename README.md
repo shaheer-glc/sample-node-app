@@ -1,6 +1,8 @@
 # sample-node-app
 Sample NodeJs Application to serve express application on port 3000
 
-# Run Application 
+# Install dependencies 
 npm install
+
+# Start Application
 npm start
